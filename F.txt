@@ -1,6 +1,5 @@
 [anti_cheat]
 version=1
-PROCESS=notepad.exe
 PROCESS=Speeder.exe
 PROCESS=GetVersion.exe
 WINDOW=LinSpeeder
